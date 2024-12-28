@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// Package main contains the sample code for the GenerateContent API.
+// Package main contains the code for a WebSockets proxy server
 package main
 
 import (

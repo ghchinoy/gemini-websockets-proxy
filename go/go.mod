@@ -1,4 +1,4 @@
-module github.com/ghchinoy/gemini-websockets-proxy
+module github.com/ghchinoy/gemini-websockets-proxy/go
 
 go 1.23.2
 

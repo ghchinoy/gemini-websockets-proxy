@@ -1,0 +1,4 @@
+websockets
+google-auth
+certifi==2023.11.17 
+requests==2.31.0
